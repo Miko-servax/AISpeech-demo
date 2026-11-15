@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-15T16:48:33.072Z",
+  "builtAt": "2026-11-15T17:26:21.727Z",
   "mode": "connected-preview",
   "backendEnabled": true,
   "modelLicensePresent": true,
@@ -8,7 +8,7 @@
     {
       "path": "index.html",
       "bytes": 439,
-      "sha256": "b9ca3790c8e171f57af9c40454cd7413b680efda5f77f83103cba5b87cf844b0"
+      "sha256": "61a00a8be06a145f65bbb63d6b111774bf878e20b4308f7734888045de592835"
     },
     {
       "path": "pcm-worklet.js",
@@ -16,14 +16,14 @@
       "sha256": "50379d6af65c3d02e4330e3b8fe8cde00dfee65c81040ef8029ae39747725de7"
     },
     {
+      "path": "assets/index-BalrAnkO.js",
+      "bytes": 758294,
+      "sha256": "85e9455ec448458b2578b010f7db29722a47c40e88a2e5a867cdbcb10808eef6"
+    },
+    {
       "path": "assets/index-CPASiqBJ.css",
       "bytes": 7714,
       "sha256": "aac01e28eed0e8e330badb273f879cbecc1e49cacedd45bf3c0b75214c06124f"
-    },
-    {
-      "path": "assets/index-s-XQqTCD.js",
-      "bytes": 758270,
-      "sha256": "ce32216f8fe49dff6846ff0ccd86889102977fcc2a120f3291e323d81530a9c7"
     },
     {
       "path": "models/v8-working.glb",
@@ -412,9 +412,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 873,
-      "sha256": "5aa0184a8ffd4d0810fe7a4e34532eb1f8d8734c8f328c8f6d284ce3d70a97a7"
+      "bytes": 939,
+      "sha256": "c81852582d08848ea67937d0f78f99da2266e0b8328e0e2ff94a284f7c1c2274"
     }
-  ],
-  "documentationUpdatedAt": "2026-11-15T17:19:31.389542+00:00"
+  ]
 }
