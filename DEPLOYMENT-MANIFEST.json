@@ -412,8 +412,9 @@
     },
     {
       "path": "README.md",
-      "bytes": 691,
-      "sha256": "9901d4e812a59c772b934217760ed614edd55df259f858fc0930a3149b293b85"
+      "bytes": 873,
+      "sha256": "5aa0184a8ffd4d0810fe7a4e34532eb1f8d8734c8f328c8f6d284ce3d70a97a7"
     }
-  ]
+  ],
+  "documentationUpdatedAt": "2026-11-15T17:19:31.389542+00:00"
 }
